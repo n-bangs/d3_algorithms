@@ -10,5 +10,3 @@ fixed size using an alphabet of a fixed size.
 
 Currently working on visualization for the Knuth-Morris-Pratt substring  
 search algorithm.
-
-Test
